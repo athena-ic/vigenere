@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: vigenere
+Version: 0.0.1
+Summary: A sample package for my assessment
+Author-email: Athena NG <athena.ng23@imperial.ac.uk>
+Project-URL: Homepage, https://github.com/athena-ic/vigenere
+Project-URL: Issues, https://github.com/athena-ic/vigenere/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Assessment Module
+
+```This is a module for my assessment```
